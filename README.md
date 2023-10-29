@@ -30,3 +30,6 @@ yarn lint
 
 ### Demo Address 演示地址
 [click me](http://videoDemo.vantastic.top)
+
+### 参考：
+[click me](https://gitee.com/qin_qing_festival/vue-video-hls?_from=gitee_search)
